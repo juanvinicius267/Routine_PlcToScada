@@ -1,0 +1,14 @@
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\RoutinePlcToScada\bin\Release\netcoreapp2.2\win-x86\hostpolicy.dll
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\RoutinePlcToScada\bin\Release\netcoreapp2.2\win-x86\hostfxr.dll
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\RoutinePlcToScada\bin\Release\netcoreapp2.2\win-x86\RoutinePlcToScada.exe
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\RoutinePlcToScada\bin\Release\netcoreapp2.2\win-x86\RoutinePlcToScada.deps.json
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\RoutinePlcToScada\bin\Release\netcoreapp2.2\win-x86\RoutinePlcToScada.runtimeconfig.json
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\RoutinePlcToScada\bin\Release\netcoreapp2.2\win-x86\RoutinePlcToScada.runtimeconfig.dev.json
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\RoutinePlcToScada\bin\Release\netcoreapp2.2\win-x86\RoutinePlcToScada.dll
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\RoutinePlcToScada\bin\Release\netcoreapp2.2\win-x86\RoutinePlcToScada.pdb
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\RoutinePlcToScada\obj\Release\netcoreapp2.2\win-x86\RoutinePlcToScada.csprojAssemblyReference.cache
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\RoutinePlcToScada\obj\Release\netcoreapp2.2\win-x86\RoutinePlcToScada.csproj.CoreCompileInputs.cache
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\RoutinePlcToScada\obj\Release\netcoreapp2.2\win-x86\RoutinePlcToScada.AssemblyInfoInputs.cache
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\RoutinePlcToScada\obj\Release\netcoreapp2.2\win-x86\RoutinePlcToScada.AssemblyInfo.cs
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\RoutinePlcToScada\obj\Release\netcoreapp2.2\win-x86\RoutinePlcToScada.dll
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\RoutinePlcToScada\obj\Release\netcoreapp2.2\win-x86\RoutinePlcToScada.pdb

@@ -1,0 +1,12 @@
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\HttpRequestPlc\bin\Release\netcoreapp2.2\win-x86\HttpRequestPlc.exe
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\HttpRequestPlc\bin\Release\netcoreapp2.2\win-x86\HttpRequestPlc.deps.json
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\HttpRequestPlc\bin\Release\netcoreapp2.2\win-x86\HttpRequestPlc.runtimeconfig.json
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\HttpRequestPlc\bin\Release\netcoreapp2.2\win-x86\HttpRequestPlc.runtimeconfig.dev.json
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\HttpRequestPlc\bin\Release\netcoreapp2.2\win-x86\HttpRequestPlc.dll
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\HttpRequestPlc\bin\Release\netcoreapp2.2\win-x86\HttpRequestPlc.pdb
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\HttpRequestPlc\obj\Release\netcoreapp2.2\win-x86\HttpRequestPlc.csproj.CoreCompileInputs.cache
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\HttpRequestPlc\obj\Release\netcoreapp2.2\win-x86\HttpRequestPlc.AssemblyInfoInputs.cache
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\HttpRequestPlc\obj\Release\netcoreapp2.2\win-x86\HttpRequestPlc.AssemblyInfo.cs
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\HttpRequestPlc\obj\Release\netcoreapp2.2\win-x86\HttpRequestPlc.dll
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\HttpRequestPlc\obj\Release\netcoreapp2.2\win-x86\HttpRequestPlc.pdb
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\HttpRequestPlc\obj\Release\netcoreapp2.2\win-x86\HttpRequestPlc.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\RoutinePlcToScada\bin\Debug\netcoreapp2.2\RoutinePlcToScada.deps.json
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\RoutinePlcToScada\bin\Debug\netcoreapp2.2\RoutinePlcToScada.runtimeconfig.json
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\RoutinePlcToScada\bin\Debug\netcoreapp2.2\RoutinePlcToScada.runtimeconfig.dev.json
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\RoutinePlcToScada\bin\Debug\netcoreapp2.2\RoutinePlcToScada.dll
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\RoutinePlcToScada\obj\Debug\netcoreapp2.2\RoutinePlcToScada.csproj.CoreCompileInputs.cache
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\RoutinePlcToScada\obj\Debug\netcoreapp2.2\RoutinePlcToScada.AssemblyInfoInputs.cache
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\RoutinePlcToScada\obj\Debug\netcoreapp2.2\RoutinePlcToScada.AssemblyInfo.cs
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\RoutinePlcToScada\bin\Debug\netcoreapp2.2\RoutinePlcToScada.pdb
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\RoutinePlcToScada\obj\Debug\netcoreapp2.2\RoutinePlcToScada.dll
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\RoutinePlcToScada\obj\Debug\netcoreapp2.2\RoutinePlcToScada.pdb
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\RoutinePlcToScada\obj\Debug\netcoreapp2.2\RoutinePlcToScada.csprojAssemblyReference.cache

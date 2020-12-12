@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "HttpRequestPlc": {
+      "commandName": "Project"
+    }
+  }
+}

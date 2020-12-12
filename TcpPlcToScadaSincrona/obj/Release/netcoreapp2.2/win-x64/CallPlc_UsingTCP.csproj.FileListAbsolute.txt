@@ -1,0 +1,11 @@
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\TcpPlcToScadaSincrona\bin\Release\netcoreapp2.2\win-x64\CallPlc_UsingTCP.exe
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\TcpPlcToScadaSincrona\bin\Release\netcoreapp2.2\win-x64\CallPlc_UsingTCP.deps.json
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\TcpPlcToScadaSincrona\bin\Release\netcoreapp2.2\win-x64\CallPlc_UsingTCP.runtimeconfig.json
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\TcpPlcToScadaSincrona\bin\Release\netcoreapp2.2\win-x64\CallPlc_UsingTCP.runtimeconfig.dev.json
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\TcpPlcToScadaSincrona\bin\Release\netcoreapp2.2\win-x64\CallPlc_UsingTCP.dll
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\TcpPlcToScadaSincrona\bin\Release\netcoreapp2.2\win-x64\CallPlc_UsingTCP.pdb
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\TcpPlcToScadaSincrona\obj\Release\netcoreapp2.2\win-x64\CallPlc_UsingTCP.csproj.CoreCompileInputs.cache
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\TcpPlcToScadaSincrona\obj\Release\netcoreapp2.2\win-x64\CallPlc_UsingTCP.AssemblyInfoInputs.cache
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\TcpPlcToScadaSincrona\obj\Release\netcoreapp2.2\win-x64\CallPlc_UsingTCP.AssemblyInfo.cs
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\TcpPlcToScadaSincrona\obj\Release\netcoreapp2.2\win-x64\CallPlc_UsingTCP.dll
+C:\Users\ssbjvq.GLOBAL\source\repos\RoutinePlcToScada\TcpPlcToScadaSincrona\obj\Release\netcoreapp2.2\win-x64\CallPlc_UsingTCP.pdb
