@@ -17,7 +17,7 @@ namespace TcpPlcToScadaSincrona.Dao
                 using (SqlConnection connection = new SqlConnection(connectionString))
                 { 
                     //Cria uma objeto do tipo comando passando como
-                    string queryString = $"UPDATE dbo.Takt SET Timer={Convert.ToInt32(data[i].timer)}" +
+                    string queryString = $"UPDATE dbo.takt SET Timer={Convert.ToInt32(data[i].timer)}" +
                             $", StopTime ={Convert.ToInt32(data[i].stopTime)}" +
                             $", Objetivo ={Convert.ToInt32(data[i].objetivo)}" +
                             $", Atual ={Convert.ToInt32(data[i].atual)}" +

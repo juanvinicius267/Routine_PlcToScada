@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CallPlc_UsingTCP.Dao;
+using System;
 using System.Text;
 using TcpPlcToScadaSincrona.Dao;
 
@@ -28,7 +29,7 @@ namespace TcpPlcToScadaSincrona.Services
                     && infos[i].Contains("velAtual") && infos[i].Contains("errosAgv") && infos[i].Contains("errosPgv")
                     && infos[i].Contains("errosMotorPasso"))
                 {                    
-                    DbAgvs dbAgv = new DbAgvs();
+                    DbAgvsMySql dbAgv = new DbAgvsMySql();
                     try { 
                         dbAgv.UpdateData(format.FormaterAgv(infos[i]));
                         
@@ -45,7 +46,7 @@ namespace TcpPlcToScadaSincrona.Services
                     && infos[i].Contains("andon") && infos[i].Contains("emergencia") && infos[i].Contains("corDeTela")
                     && infos[i].Contains("numMesagem"))
                 {
-                    DbTakt dbTakt = new DbTakt();        
+                    DbTaktMysql dbTakt = new DbTaktMysql();        
                     try
                     {                       
                         dbTakt.InsertData( format.FormaterTakt(infos[i]));
